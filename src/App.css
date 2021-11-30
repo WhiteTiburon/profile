@@ -158,7 +158,7 @@ section .title::after{
 .home{
     display: flex;
     background: url("images/jonathan.jpeg") no-repeat center;
-    height: 100vh;
+    height: 80vh;
     color: #fff;
     min-height: 500px;
     background-size: cover;
